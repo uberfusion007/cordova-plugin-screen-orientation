@@ -16,6 +16,10 @@
       "windows"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uberfusion007/cordova-plugin-screen-orientation"
+  },
   "keywords": [
     "cordova",
     "cordova-android",
@@ -32,12 +36,5 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@cordova/eslint-config": "^3.0.0"
-  },
-  "engines": {
-    "cordovaDependencies": {
-      "4.0.0": {
-        "cordova": ">100"
-      }
-    }
   }
 }
